@@ -1,0 +1,6 @@
+com\restapiexample\dummy\constants\EndPoints.class
+com\restapiexample\dummy\dummyInfo\DummyRestSteps.class
+com\restapiexample\dummy\utils\TestUtils.class
+com\restapiexample\dummy\utils\PropertyReader.class
+com\restapiexample\dummy\constants\Path.class
+com\restapiexample\dummy\constants\model\RestAPIPojo.class
